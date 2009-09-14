@@ -1,0 +1,4 @@
+WXtrack under wine (os x)
+->
+  ln -s /dev/tty.usbserial-A9005aX1 ~/.wine/dosdevices/com1
+
